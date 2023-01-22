@@ -1,0 +1,88 @@
+write code for a website using HTML and CSS including images and include pages for residintal customers or commercial customers and include navigation button for SetnStonez Demolition andConstruction llc 469-285-8210 setnstonetx@gmail.com
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SetnStonez Demolition and Construction</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<div class="header">
+			<h1>SetnStonez Demolition and Construction</h1>
+		</div>
+		<div class="nav">
+			<ul>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="about.php">About</a></li>
+				<li><a href="services.php">Services</a></li>
+				<li><a href="contact.php">Contact</a></li>
+			</ul>
+		</div>
+		<div class="content">
+			<h2>About Us</h2>
+			<p>SetnStonez Demolition and Construction located on an 18,000 square feet site in Utica, New York, is a construction company and demolition company that has the ability to start-up proper and efficient construction.</p>
+			<p>They are an experienced business that can handle any project with proper attention to detail.As not all construction projects and especially job sites are alike to the standard, with the minimum amount of friction between those jobs and his, if found, the client would not agree, they would leave the job at their own hand, and the constructor would never specify the minimum frictions of job sites.</p>
+			<p>Some of the fields and skills listed on the site include</p>
+			<ul>
+				<li>
+					<h3>Certain Buildings</h3>
+					<ul>
+						<li>New construction of use stands</li>
+						<li>Restorations and repairs</li>
+						<li>Additional sheds</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Construction Management</h3>
+					<p>For those who desire to manage and smooth the construction cycle</p>
+				</li>
+				<li>
+					<h3>CEQ manuals</h3>
+					<ul>
+						<li>For verification of compliance as per regulation</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Hoist and Inner Planes</h3>
+					<ul>
+						<li>Own hire and maintenance of a crane, hoist, and inner plane</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Bond and Demolition</h3>
+					<ul>
+						<li>Any building under bond</li>
+						<li>Destroy any building for a fee</li>
+						<li>Contract clauses required</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Custom Belts</h3>
+					<ul>
+						<li>High durability custom belts possible</li>
+						<li>Provision of materials and trays</li>
+					</ul>
+				</li>
+			</ul>
+
+			
+		
+		</div>
+		<div id="news">
+			<h2>LATEST NEWS</h2>
+			<div class="sentence">
+				<img src="image/kansas%20river.jpg">
+				<p>A kansas river mile west of Cheyenne on the west bank near junction.</p>
+			</div>
+		</div>
+		<div id="contact">
+			<p>contact us <a href="#">faailaz.patkon78@yahoo.com</a> or <a href="#">faailaz.patkon78@gmail.com</a></p>
+			<br>
+		</div>
+	</div>	
+<div class='footer'>
+	<p>FAILAZ - PATKON 2016</p>
+</div>
+</body>
+</html>
